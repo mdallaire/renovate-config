@@ -12,6 +12,7 @@
     ":disableRateLimiting"
   ],
   "onboarding": false,
+  "username": "roboto-le-robot[bot]",
   "requireConfig": "optional",
   "timezone": "America/Toronto",
   "dependencyDashboardTitle": "Renovate Dashboard",
